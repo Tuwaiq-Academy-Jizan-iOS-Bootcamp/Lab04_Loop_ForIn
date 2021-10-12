@@ -15,4 +15,4 @@ With all that you have learned try to answer the following algorithm :
 
 ### DeadLine
 
-Sunday 11 October
+wednesday 13 October
