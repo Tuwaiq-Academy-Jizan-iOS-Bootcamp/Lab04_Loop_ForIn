@@ -1,5 +1,6 @@
-var i = 1
 
-{for i in 1...100{
-    print(i)
+for myNumber in 1...100
+ {
+  if ( ( myNumber % 3 ) == 0 )
+    {print(myNumber)}
 }
